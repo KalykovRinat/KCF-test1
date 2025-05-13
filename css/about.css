@@ -1,6 +1,6 @@
 body {
   font-family: 'Rubik', sans-serif;
-  background-image: url(gal1.jpg) no-repeat center center;
+  background-image: url(gal.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   color: var(--white);
@@ -9,7 +9,7 @@ body {
 }
 
 .about-section {
-  background-color: #1212128b;
+  background-color: #121212bf;
   color: #f2f2f2;
   padding: 4rem 1rem;
   font-family: 'Rubik', sans-serif;
