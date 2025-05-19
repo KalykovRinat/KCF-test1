@@ -6,8 +6,13 @@
 --blue: #4388a5cf;
 --blac-t: #101212 ;
 }
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
 body{
-  background: url(stat.jpg);
+  background: url(../Photo/stat1.jpg);
   background-attachment: fixed;
   background-size: cover;
   font-family: 'Rubik', sans-serif;
